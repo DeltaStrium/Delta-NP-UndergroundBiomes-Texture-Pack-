@@ -1,4 +1,4 @@
-# Delta-NP Underground Biomes
+# Delta-NP UndergroundBiomes
 www.deltastrium.com
 =================
 This pack was created by Nuttyprot sadly he has now retired from texture pack development.
@@ -7,9 +7,9 @@ We at DeltaStrium will be continuing to update this pack for the foreseeable fut
 
 Credits:
 ================
-* Zeno410[For creating Underground Biomes Mod]
-* Nuttyprot [for Creating the textures][Retired From Texturing
-* DrakeBD [Editing and Creating the pack]
+* Zeno410 [For creating Undergroundbiomes Mod]
+* CeLittle3 [For His Texture Contributions]
+* DrakeBD [For Compiling & Editing the pack]
 
 Licensing:
 ================
