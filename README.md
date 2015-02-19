@@ -1,9 +1,7 @@
 # Delta-NP UndergroundBiomes
 www.deltastrium.com
 =================
-This pack was created by Nuttyprot sadly he has now retired from texture pack development.
-
-We at DeltaStrium will be continuing to update this pack for the foreseeable future.
+This pack was created in nuttyprots name, to honor his legacy.
 
 Credits:
 ================
