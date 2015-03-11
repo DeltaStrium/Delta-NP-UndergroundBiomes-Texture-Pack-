@@ -6,7 +6,7 @@ This pack was created in nuttyprots name, to honor his legacy.
 Credits:
 ================
 * Zeno410 [For creating Undergroundbiomes Mod]
-* CeLittle3 [For His Texture Contributions]
+* Wreckage [For His Texture Contributions]
 * DrakeBD [For Compiling & Editing the pack]
 
 Licensing:
